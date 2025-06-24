@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Tabaresu! 👋
 
-<!--
-**tabaresu1/tabaresu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Front-End Developer & Graphic Designer**  
+I blend creativity with code—crafting visually appealing, user-friendly interfaces and experiences. My passion extends from graphic design to UI/UX, where I thrive on bringing intuitive digital products to life.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- React, Vue, or your favorite frameworks
+- UI/UX Design
+- Figma, Adobe Suite, and more
+
+## 🚀 Featured Projects
+
+- 🎨 **Color Converter:** My go-to project for seamless color transformations—making design workflows more vibrant and efficient!
+- 🖼️ **Personal Portfolio:** Where I showcase my latest works, experiments, and creative journey.
+
+## 🎵 Fun Fact
+
+When I’m not designing or coding, you’ll find me making music! Creativity knows no bounds for me—whether it’s on screen or with instruments.
+
+---
+
+Let’s connect and create something beautiful together!
