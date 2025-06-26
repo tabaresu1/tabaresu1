@@ -14,6 +14,7 @@ I blend creativity with code—crafting visually appealing, user-friendly interf
 
 - 🎨 **Color Converter:** My go-to project for seamless color transformations—making design workflows more vibrant and efficient!
 - 🖼️ **Personal Portfolio:** Where I showcase my latest works, experiments, and creative journey.
+- 👓 **Lenses App:** An app that helps stores on increasing their sales by using a visual app.
 
 ## 🎵 Fun Fact
 
